@@ -1,5 +1,5 @@
 # first_respository
 
-Wins-file
+Wins-folder
 
 Removed Sabina.
